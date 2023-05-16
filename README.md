@@ -17,3 +17,5 @@ This dataset contains information related to customer data, goods and shipping. 
 * Discount_offered : Discount offered on the product (in percentage)
 * Weight_in_gms : product weight in grams
 * Reached.on.Time_Y.N : 1 represents the item sent not on time, 0 represents the item sent on time
+
+This Analysis consist from background, indefication of problem, data understanding, data cleaning, data analysis, conclusion and suggestion in Indonesian Language (Bahasa Indonesia).
